@@ -1,0 +1,348 @@
+[
+  {
+    "nome": "JavaScript",
+    "data_criacao": 1995,
+    "descricao": "O JS é uma linguagem da web.",
+    "link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
+  },
+  {
+    "nome": "Python",
+    "data_criacao": 1991,
+    "descricao": "O Python é a linguagem da ciência de dados e IA.",
+    "link": "https://docs.python.org/pt-br/3.14/"
+  },
+  {
+    "nome": "Java",
+    "data_criacao": 1995,
+    "descricao": "Java é uma linguagem de programação orientada a objetos, popular para aplicações corporativas e Android.",
+    "link": "https://docs.oracle.com/en/java/"
+  },
+  {
+    "nome": "C#",
+    "data_criacao": 2000,
+    "descricao": "C# (C Sharp) é uma linguagem moderna, orientada a objetos e desenvolvida pela Microsoft para a plataforma .NET.",
+    "link": "https://learn.microsoft.com/pt-br/dotnet/csharp/"
+  },
+  {
+    "nome": "Go",
+    "data_criacao": 2009,
+    "descricao": "Go (ou Golang) é uma linguagem de programação compilada e concorrente criada pelo Google, focada em simplicidade e eficiência.",
+    "link": "https://go.dev/doc/"
+  },
+  {
+    "nome": "Rust",
+    "data_criacao": 2010,
+    "descricao": "Rust é uma linguagem de programação focada em segurança de memória e desempenho, ideal para sistemas de baixo nível.",
+    "link": "https://www.rust-lang.org/pt-BR/learn"
+  },
+  {
+    "nome": "TypeScript",
+    "data_criacao": 2012,
+    "descricao": "TypeScript é um superset do JavaScript que adiciona tipagem estática opcional à linguagem.",
+    "link": "https://www.typescriptlang.org/docs/"
+  },
+  {
+    "nome": "Kotlin",
+    "descricao": "Linguagem de programação estaticamente tipada que roda na JVM e é amplamente usada para desenvolvimento Android e backend.",
+    "data_criacao": "2011",
+    "link": "https://kotlinlang.org/",
+    "tags": [
+      "Linguagem de Programação",
+      "JVM",
+      "Desenvolvimento Mobile",
+      "Backend"
+    ]
+  },
+  {
+    "nome": "Swift",
+    "descricao": "Linguagem de programação multi-paradigma desenvolvida pela Apple para criar aplicativos para iOS, macOS, watchOS e tvOS.",
+    "data_criacao": "2014",
+    "link": "https://www.swift.org/",
+    "tags": [
+      "Linguagem de Programação",
+      "Apple",
+      "Desenvolvimento iOS",
+      "Compilada"
+    ]
+  },
+  {
+    "nome": "React",
+    "descricao": "Biblioteca JavaScript declarativa e eficiente para construir interfaces de usuário baseada em componentes.",
+    "data_criacao": "2013",
+    "link": "https://reactjs.org/",
+    "tags": [
+      "Biblioteca",
+      "Frontend",
+      "UI/UX",
+      "Desenvolvimento Web"
+    ]
+  },
+  {
+    "nome": "Angular",
+    "descricao": "Framework front-end completo (full-featured) mantido pelo Google para construir aplicações de página única (SPA) complexas.",
+    "data_criacao": "2016",
+    "link": "https://angular.io/",
+    "tags": [
+      "Framework",
+      "Frontend",
+      "Google",
+      "SPA",
+      "Desenvolvimento Web"
+    ]
+  },
+  {
+    "nome": "Vue.js",
+    "descricao": "Framework progressivo para a construção de interfaces de usuário, conhecido por sua facilidade de aprendizado e flexibilidade.",
+    "data_criacao": "2014",
+    "link": "https://vuejs.org/",
+    "tags": [
+      "Framework",
+      "Frontend",
+      "UI",
+      "Componentes"
+    ]
+  },
+  {
+    "nome": "Node.js",
+    "descricao": "Ambiente de tempo de execução (runtime) que permite executar código fora do navegador, comumente usado para backend escalável.",
+    "data_criacao": "2009",
+    "link": "https://nodejs.org/",
+    "tags": [
+      "Runtime",
+      "Backend",
+      "Servidor",
+      "Event-Driven"
+    ]
+  },
+  {
+    "nome": "Express",
+    "descricao": "Framework de aplicação web minimalista e flexível para Node.js, fornecendo um robusto conjunto de recursos para aplicações web e APIs.",
+    "data_criacao": "2010",
+    "link": "https://expressjs.com/",
+    "tags": [
+      "Framework",
+      "Backend",
+      "Node.js",
+      "API"
+    ]
+  },
+  {
+    "nome": "Spring Boot",
+    "descricao": "Extensão do framework Spring que simplifica a configuração e o desenvolvimento de aplicações Java standalone e baseadas em microserviços.",
+    "data_criacao": "2014",
+    "link": "https://spring.io/projects/spring-boot",
+    "tags": [
+      "Framework",
+      "Backend",
+      "Java",
+      "Microserviços",
+      "JVM"
+    ]
+  },
+  {
+    "nome": "PostgreSQL",
+    "descricao": "Sistema de gerenciamento de banco de dados objeto-relacional de código aberto, conhecido por sua robustez e conformidade com padrões SQL.",
+    "data_criacao": "1996",
+    "link": "https://www.postgresql.org/",
+    "tags": [
+      "Banco de Dados",
+      "Relacional",
+      "SQL",
+      "Open Source"
+    ]
+  },
+  {
+    "nome": "MongoDB",
+    "descricao": "Banco de dados NoSQL orientado a documentos que oferece alta disponibilidade e escalabilidade horizontal.",
+    "data_criacao": "2009",
+    "link": "https://www.mongodb.com/",
+    "tags": [
+      "Banco de Dados",
+      "NoSQL",
+      "Documentos",
+      "Escalável"
+    ]
+  },
+  {
+    "nome": "Redis",
+    "descricao": "Banco de dados em memória, de código aberto, usado como cache, message broker e armazenamento de dados persistente.",
+    "data_criacao": "2009",
+    "link": "https://redis.io/",
+    "tags": [
+      "Banco de Dados",
+      "Cache",
+      "Chave-Valor",
+      "In-Memory"
+    ]
+  },
+  {
+    "nome": "Docker",
+    "descricao": "Plataforma para desenvolver, enviar e executar aplicações dentro de contêineres, garantindo consistência entre ambientes.",
+    "data_criacao": "2013",
+    "link": "https://www.docker.com/",
+    "tags": [
+      "Containerização",
+      "DevOps",
+      "Ferramenta",
+      "Virtualização"
+    ]
+  },
+  {
+    "nome": "Kubernetes",
+    "descricao": "Sistema de orquestração de contêineres open source que automatiza a implantação, escalonamento e gerenciamento de aplicações.",
+    "data_criacao": "2014",
+    "link": "https://kubernetes.io/",
+    "tags": [
+      "Orquestração",
+      "DevOps",
+      "Cloud Native",
+      "Containers"
+    ]
+  },
+  {
+    "nome": "Terraform",
+    "descricao": "Ferramenta de Infraestrutura como Código (IaC) que permite provisionar e gerenciar recursos de infraestrutura em nuvem de forma declarativa.",
+    "data_criacao": "2014",
+    "link": "https://www.terraform.io/",
+    "tags": [
+      "Infraestrutura como Código",
+      "DevOps",
+      "Cloud",
+      "Provisionamento"
+    ]
+  },
+  {
+    "nome": "Jenkins",
+    "descricao": "Servidor de automação open source focado em Integração Contínua (CI) e Entrega Contínua (CD).",
+    "data_criacao": "2011",
+    "link": "https://www.jenkins.io/",
+    "tags": [
+      "CI/CD",
+      "Automação",
+      "DevOps",
+      "Integração Contínua"
+    ]
+  },
+  {
+    "nome": "Next.js",
+    "descricao": "Framework React que permite renderização do lado do servidor (SSR) e geração de sites estáticos, otimizado para produção.",
+    "data_criacao": "2016",
+    "link": "https://nextjs.org/",
+    "tags": [
+      "Framework",
+      "React",
+      "Fullstack",
+      "SSR",
+      "Meta-Framework"
+    ]
+  },
+  {
+    "nome": "Svelte",
+    "descricao": "Um compilador que transforma componentes em código Vanilla eficiente durante o processo de build, sem usar Virtual DOM.",
+    "data_criacao": "2016",
+    "link": "https://svelte.dev/",
+    "tags": [
+      "Framework",
+      "Frontend",
+      "Compilador",
+      "UI"
+    ]
+  },
+  {
+    "nome": "GraphQL",
+    "descricao": "Linguagem de consulta e manipulação de dados para APIs, permitindo que os clientes solicitem exatamente os dados necessários.",
+    "data_criacao": "2015",
+    "link": "https://graphql.org/",
+    "tags": [
+      "API",
+      "Linguagem de Consulta",
+      "Dados",
+      "Backend/Frontend"
+    ]
+  },
+  {
+    "nome": "gRPC",
+    "descricao": "Framework de chamada de procedimento remoto (RPC) de alto desempenho e código aberto, usado para comunicação entre microserviços.",
+    "data_criacao": "2015",
+    "link": "https://grpc.io/",
+    "tags": [
+      "Protocolo",
+      "RPC",
+      "Microserviços",
+      "Comunicação"
+    ]
+  },
+  {
+    "nome": "Kafka",
+    "descricao": "Plataforma de streaming de eventos distribuída, de alto rendimento, usada para construir pipelines de dados em tempo real.",
+    "data_criacao": "2011",
+    "link": "https://kafka.apache.org/",
+    "tags": [
+      "Mensageria",
+      "Streaming de Dados",
+      "Distribuído",
+      "Event-Driven"
+    ]
+  },
+  {
+    "nome": "Solidity",
+    "descricao": "Linguagem de programação orientada a contratos para implementação de Smart Contracts na Ethereum e outras plataformas de Blockchain.",
+    "data_criacao": "2015",
+    "link": "https://soliditylang.org/",
+    "tags": [
+      "Linguagem de Programação",
+      "Blockchain",
+      "Smart Contracts",
+      "Ethereum"
+    ]
+  },
+  {
+    "nome": "Tailwind CSS",
+    "descricao": "Framework CSS utilitário que permite construir designs rapidamente, aplicando classes pré-definidas diretamente no HTML.",
+    "data_criacao": "2017",
+    "link": "https://tailwindcss.com/",
+    "tags": [
+      "Framework",
+      "CSS",
+      "Frontend",
+      "Utility-First"
+    ]
+  },
+  {
+    "nome": "Django",
+    "descricao": "Framework web de alto nível que incentiva o desenvolvimento rápido e um design limpo e pragmático, utilizando a linguagem Python.",
+    "data_criacao": "2005",
+    "link": "https://www.djangoproject.com/",
+    "tags": [
+      "Framework",
+      "Backend",
+      "Web",
+      "ORM",
+      "Bateria Inclusa"
+    ]
+  },
+  {
+    "nome": "Laravel",
+    "descricao": "Framework de aplicação web com sintaxe expressiva e elegante para PHP, seguindo o padrão arquitetural MVC.",
+    "data_criacao": "2011",
+    "link": "https://laravel.com/",
+    "tags": [
+      "Framework",
+      "Backend",
+      "PHP",
+      "MVC"
+    ]
+  },
+  {
+    "nome": "MariaDB",
+    "descricao": "Sistema de gerenciamento de banco de dados relacional (RDBMS), um fork do MySQL que mantém compatibilidade e é orientado à comunidade.",
+    "data_criacao": "2009",
+    "link": "https://mariadb.org/",
+    "tags": [
+      "Banco de Dados",
+      "Relacional",
+      "SQL",
+      "Open Source"
+    ]
+  }
+]
